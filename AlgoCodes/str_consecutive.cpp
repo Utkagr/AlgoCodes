@@ -54,4 +54,5 @@ int main()
 	}
 	cout << arr << "\n";
 	return 0;
-}	
+}
+// dfaaafe -> dffe -> de
