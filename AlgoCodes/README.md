@@ -1,2 +1,2 @@
-# Algo_C-
-This reposiotory contains working code of important algorithms in C++.
+# Algo_C++
+This repository contains working code of some algorithms in C++.
